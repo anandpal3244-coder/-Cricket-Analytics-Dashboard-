@@ -32,14 +32,22 @@ The dashboard provides powerful insights into bowling statistics across all cric
 
 ---
 
+
 # 🎥 LIVE DASHBOARD PREVIEW
 
-<div align="center">
+<img width="1728" height="944" alt="Screenshot 2026-05-25 155605" src="https://github.com/user-attachments/assets/af653cc8-f45f-441c-9709-c056dbe00942" />
+
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzR6b3Q4b2tzYzM5ZXZlNmR0dWg0N3dwMzNmcG9jYjZlMTRvZXQ3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="100%">
 
 </div>
 
+
+# 🌐 Live Dashboard
+
+🚀 Click below to explore the interactive Tableau dashboard.
+
+[![Live Dashboard](https://img.shields.io/badge/🚀_LIVE_DASHBOARD-Tableau_Public-blue?style=for-the-badge)](https://public.tableau.com/views/CricketDashboard2/CricketPerformanceAnalyticsDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ---
 
 # ⚡ DASHBOARD FEATURES
